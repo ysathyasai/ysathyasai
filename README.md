@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sathya Sai <br>🚀 I'm a Linux enthusiast, and AI learner.<br>🔍 Currently exploring the world of Linux and working on AI-powered applications.<br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies.<br>🛠️ Tech Stack: Python | GCP | Streamlit | DALL-E | ChatGPT | Stable Diffusion<br>📫 Reach out to me: ysathya.dev@gmail.com<br>💡 Let's collaborate and create something amazing!
+👋 Hi, I’m Sathya Sai <br>🚀 I'm a Linux enthusiast, and AI learner.<br>🔍 Currently exploring the world of Linux and working on AI-powered applications.<br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies.<br>🛠️ Tech Stack: Python | GCP | Streamlit | DALL-E | ChatGPT | Stable Diffusion<br>📫 Reach out to me: ysathyasai.dev@gmail.com<br>💡 Let's collaborate and create something amazing!
 
 
 ## 🌐 Socials:
