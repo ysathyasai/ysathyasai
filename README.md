@@ -99,7 +99,7 @@ ysathyasai.dev@gmail.com
 
 <h1><img src="https://github.com/user-attachments/assets/9b48ab72-cdef-4041-9249-920057f16691" width="32px"> You can help me by Donating:</h1>
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https:/patreon.com/YejjuSathyaSai) 
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YejjuSathyaSai) 
 
 
 <h2 align="center"><a href="https://github.com/ysathyasai">
