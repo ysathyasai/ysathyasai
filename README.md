@@ -70,9 +70,11 @@ ysathyasai.dev@gmail.com
 
 <h1><img src="https://github.com/user-attachments/assets/5f7a8239-0658-4ae0-89a9-9fa4c17d2b3c" width="30px"> GitHub Stats:</h1>
 
-<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="500">
 <br> <br>
 <p>
+  
+<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="350">
+
   <img src="https://github-readme-stats.vercel.app/api?username=ysathyasai&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
 </p>
