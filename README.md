@@ -13,7 +13,7 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Gov
 <img align='right' src="https://github.com/user-attachments/assets/849ecd56-1855-4214-bb24-aa1ed771b7b5" width="200">
 <br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies.
 
-📫 Reach out to me: [ysathyasai.dev](mailto:ysathyasai.dev@gmail.com).
+📫 Reach out to me: [ysathyasai.dev](mailto:ysathyasai.dev@gmail.com)
 ``` css
 ysathyasai.dev@gmail.com
 ```
