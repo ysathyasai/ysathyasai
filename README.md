@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://github.com/user-attachments/assets/64380716-228e-4a70-b272-78c9f89deb14" width="30px">, I'm Sathya Sai <img src="https://github.com/user-attachments/assets/e5332fcd-0795-42d4-95d6-9e368600cbcc" width="40px">!</h1>
+<h1 align="center">Hey <img src="https://github.com/user-attachments/assets/64380716-228e-4a70-b272-78c9f89deb14" width="30px">, I'm Sathya Sai<img src="https://github.com/user-attachments/assets/e5332fcd-0795-42d4-95d6-9e368600cbcc" width="40px">!</h1>
 
 Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/f8b1b87c-db91-4e99-87dd-16968ca8bed6" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 <br> <br>
@@ -30,6 +30,9 @@ ysathyasai.dev@gmail.com
 
 
 <h1><img src="https://github.com/user-attachments/assets/0ece6e98-00f7-4e38-af34-470278793621" width="32px"> Tech Stack:</h1>
+
+<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="350">
+<br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -69,15 +72,12 @@ ysathyasai.dev@gmail.com
 
 
 <h1><img src="https://github.com/user-attachments/assets/5f7a8239-0658-4ae0-89a9-9fa4c17d2b3c" width="30px"> GitHub Stats:</h1>
-
-  
-<img align='center' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="500">
-<br> <br>
-<p>
+<br>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ysathyasai&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysathyasai&langs_count=10&theme=tokyonight&layout=compact" alt="ysathyasai :: Top Langs" />
 </p>
 
@@ -94,13 +94,12 @@ ysathyasai.dev@gmail.com
   ![](https://github-contributor-stats.vercel.app/api?username=ysathyasai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
   </h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=ysathyasai&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <h1><img src="https://github.com/user-attachments/assets/9b48ab72-cdef-4041-9249-920057f16691" width="32px"> You can help me by Donating:</h1>
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YejjuSathyaSai) 
-
+<h1 align="center">
+  
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YejjuSathyaSai) 
+</h1>
 
 <h2 align="center"><a href="https://github.com/ysathyasai">
    <img src="https://komarev.com/ghpvc/?username=ysathyasai">
