@@ -97,7 +97,9 @@ ysathyasai.dev@gmail.com
 <h1><img src="https://github.com/user-attachments/assets/9b48ab72-cdef-4041-9249-920057f16691" width="32px"> You can help me by Donating:</h1>
 
 <h1 align="center">
-  
+
+
+  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ysathyasai)
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YejjuSathyaSai) 
 </h1>
 
