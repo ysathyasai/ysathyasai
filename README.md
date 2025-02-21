@@ -87,7 +87,7 @@ ysathyasai.dev@gmail.com
 ![](https://github-profile-trophy.vercel.app/?username=ysathyasai&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
-<h1><img src="https://github.com/user-attachments/assets/c54b5b04-739c-453f-8ffc-947e005255cd" width="32px"> Top Contributed Repo:</h1>
+<h1><img src="https://github.com/user-attachments/assets/4383a9bb-6588-47fa-a3f1-691604c92bdd" width="32px"> Top Contributed Repo:</h1>
 
 <h1 align="center">
   
