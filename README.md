@@ -107,6 +107,13 @@ ysathyasai.dev@gmail.com
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YejjuSathyaSai) 
 </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ysathyasai/ysathyasai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysathyasai/ysathyasai/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ysathyasai/ysathyasai/output/github-snake.svg" />
+</picture>
+
+
 <h2 align="center"><a href="https://github.com/ysathyasai">
    <img src="https://komarev.com/ghpvc/?username=ysathyasai">
 </a> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
