@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/user-attachments/assets/64380716-228e-4a70-b272-78c9f89deb14" width="30px">, I'm Sathya Sai<img src="https://github.com/user-attachments/assets/e5332fcd-0795-42d4-95d6-9e368600cbcc" width="40px">!</h1>
 
-Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/f8b1b87c-db91-4e99-87dd-16968ca8bed6" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/f8b1b87c-db91-4e99-87dd-16968ca8bed6" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 <br> <br>
 
 <h1 align="center">
@@ -9,33 +9,47 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Gov
 </h1>
 
 <h1><img src="https://github.com/user-attachments/assets/73431132-dfa3-4f94-a46d-dfbdb7cfb0f5" width="32px"> About Me:</h1>
-🚀 I’m a Linux enthusiast, AI & ML learner, and open-source contributor. 
-<img align='right' src="https://github.com/user-attachments/assets/849ecd56-1855-4214-bb24-aa1ed771b7b5" width="250">
-<br>🔍 Currently exploring Oracle SQL, web development languages, and Linux system administration. 
+🚀 I’m a Linux user, AI & ML learner, and open-source contributor. 
+<img align='right' src="https://github.com/user-attachments/assets/849ecd56-1855-4214-bb24-aa1ed771b7b5" width="225">
+<br>🔍 Currently exploring web development languages, and AI & ML Projects.
 <br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies. 
 <br>🌐 I’m working on automation scripts, and AI-powered applications and constantly updating my skills. 
-<br>📚 Passionate about AI, ML, and developing free tools to help others get started with technology. 
-<br>🛠️ Tech Stack: Linux | Shell Scripting | Node.js | Stable Diffusion | DALL-E | ChatGPT 
+<br>📚 Passionate about AI & ML, Data Science and developing free tools to help others get started with technological Solutions.
 <br>💡 Let’s connect, collaborate, and create something amazing together!
 
-
+<br>
+<br>
 
 📫 Reach out to me: [ysathyasai.dev](mailto:ysathyasai.dev@gmail.com)
 ``` css
 ysathyasai.dev@gmail.com
 ```
 
-<h2><img src="https://github.com/user-attachments/assets/fcaa1f01-c749-4b10-afe7-e6d27e513af2" width="30px"> Socials:</h2>
+<h1><img src="https://github.com/user-attachments/assets/fcaa1f01-c749-4b10-afe7-e6d27e513af2" width="30px"> Socials:</h1>
 
-<div align = center>
-<a href="https://ysathyasai.medium.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/22d47189-3b98-4d9d-a6e3-da528515b67a" alt="ysathyasai" height="35" width="40" /></a>
-<a href="https://linkedin.com/in/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
-<a href="https://kaggle.com/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ysathyasai" height="30" width="40" /></a>
-<a href="https://x.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/87a29fb0-05a4-466a-a7f7-0e1b0b0583b5" alt="ysathyasai" height="35" width="35" /></a>
-<a href="https://instagram.com/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysathyasai" height="30" width="40" /></a>
-<a href="https://reddit.com/user/y_sathya_sai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/509f2001-21a2-4663-87f9-412463b8becf" alt="y_sathya_sai" height="50" width="50" /></a>
+<div align="center">
+<a href="https://linkedin.com/in/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30141912/yejju-sathya-sai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/c717f2ab-2f1f-48de-8731-7044bfb1c821" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://dev.to/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/3109daa8-4774-4446-98ff-f3530a2ae905" alt="ysathyasai" height="35" width="35" /></a>
+<a href="https://ysathyasai.medium.com/" target="_blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://hashnode.com/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/6ed896bb-3dbd-4f37-9245-6a859d034c83" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://youtube.com/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/f701e70e-2155-4647-aaf2-142692dee57e" alt="ysathyasai" height="31" width="36" /></a>
+<a href="https://codepen.io/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/0019b58c-38d9-4051-9d93-9ae12e10ff32" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://www.behance.net/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ad4c6451-ae53-4055-9e4b-7117861a512f" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ysathyasai/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/48c8e838-6ffb-41c1-b908-55f750274722" alt="ysathyasai" height="40" width="45" /></a>
+<a href="https://www.codechef.com/users/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/68e0454b-954f-4591-a355-0108c148686c" alt="ysathyasai" height="35" width="40" /></a>
+<a href="https://www.hackerrank.com/yejjusatyasai201" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/43301af0-4e91-4349-b26f-7d34acd546ec" alt="ysathyasai" height="42" width="47" /></a>
+<a href="https://kaggle.com/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://dribbble.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/3c8f5214-8310-475c-8afd-98a78173defd" alt="ysathyasai" height="43" width="48" /></a>
+
+<a href="https://x.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/87a29fb0-05a4-466a-a7f7-0e1b0b0583b5" alt="ysathyasai" height="35" width="35" /></a>
+<a href="https://instagram.com/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://facebook.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/c7f6d9ff-f506-484d-b77c-0f81340390ea" alt="ysathyasai" height="30" width="35" /></a>
+<a href="https://reddit.com/user/y_sathya_sai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/d81f76ce-9773-4363-94ae-1720017ff408" alt="y_sathya_sai" height="30" width="30" /></a>
+<a href="https://discord.com/users/1271371075799744535" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/3cca9885-e48b-4bad-be30-e19a06e64ffa" alt="ysathyasai" height="50" width="55" /></a>
+<a href="https://mastodon.social/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ee0748d5-cfbf-44c9-a7e6-2b03518971d6" alt="ysathyasai" height="30" width="35" /></a>
+<a href="https://bsky.app/profile/ysathyasai.bsky.social" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2c819930-e86b-425e-b35e-830684d828f0" alt="ysathyasai" height="28" width="33" /></a>
 </div>
-
 
 <h1><img src="https://github.com/user-attachments/assets/0ece6e98-00f7-4e38-af34-470278793621" width="32px"> Tech Stack:</h1>
 
@@ -47,45 +61,47 @@ ysathyasai.dev@gmail.com
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)](https://angularjs.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)](https://scipy.org/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)](https://gradle.org/)
 [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)](https://web3js.readthedocs.io/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)](https://reactjs.org/docs/context.html)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)](https://about.facebook.com/meta/)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)](https://www.torproject.org/)
+[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)](https://ubuntu.com/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 
@@ -95,9 +111,8 @@ ysathyasai.dev@gmail.com
   <img src="https://github-readme-stats.vercel.app/api?username=ysathyasai&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
   <br/>
 </p>
-</p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ysathyasai&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysathyasai&theme=tokyonight&hide_border=false" />
   <br/>
 </p>
 <p align="center">
@@ -121,9 +136,15 @@ ysathyasai.dev@gmail.com
 
 <h1 align="center">
 
+  <!-- Buy Me a Coffee -->
+  <a href="https://buymeacoffee.com/ysathyasai" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a0e89abe-79a2-453a-bc9d-b7a11c0958e5" alt="Buy Me a Coffee" width="100" />
+  </a>
 
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ysathyasai)
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YejjuSathyaSai) 
+  <!-- Patreon -->
+  <a href="https://patreon.com/YejjuSathyaSai" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support me on Patreon" />
+  </a>
 </h1>
 
 <picture>
@@ -137,10 +158,14 @@ ysathyasai.dev@gmail.com
 If you've made it this far, here's something [special](https://gist.github.com/ysathyasai/4791099196b95935e18c8752e4346fb5) for the curious minds or even [this](https://gist.github.com/ysathyasai/8b0ef6dcc56565adaacabc3984731300.js) if you don't have a life 🧠
 
 
+
 <h2 align="center"><a href="https://github.com/ysathyasai">
    <img src="https://komarev.com/ghpvc/?username=ysathyasai">
 </a> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </h2>
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=3000&height=50&duration=1750&pause=1500&color=1A9FFF&width=120&lines=Thank+you!"></h1>
+
 
 
 <!---
