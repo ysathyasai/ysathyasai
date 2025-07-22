@@ -136,9 +136,15 @@ ysathyasai.dev@gmail.com
 
 <h1 align="center">
 
+  <!-- Buy Me a Coffee -->
+  <a href="https://buymeacoffee.com/ysathyasai" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a0e89abe-79a2-453a-bc9d-b7a11c0958e5" alt="Buy Me a Coffee" width="100" />
+  </a>
 
-  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ysathyasai)
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/YejjuSathyaSai) 
+  <!-- Patreon -->
+  <a href="https://patreon.com/YejjuSathyaSai" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support me on Patreon" />
+  </a>
 </h1>
 
 <picture>
