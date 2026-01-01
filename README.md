@@ -1,16 +1,16 @@
-<h1 align="center">Hey <img src="https://github.com/user-attachments/assets/64380716-228e-4a70-b272-78c9f89deb14" width="30px">, I'm Sathya Sai<img src="https://github.com/user-attachments/assets/e5332fcd-0795-42d4-95d6-9e368600cbcc" width="40px">!</h1>
+<h1 align="center">Hey <img src="https://github.com/user-attachments/assets/0b415b97-79bd-48e7-b00f-1e5f21b64637" width="30px">, I'm Sathya Sai<img src="https://github.com/user-attachments/assets/1ddd7bda-a1f8-4238-8d7b-3e43cadf7719" width="40px">!</h1>
 
-Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/f8b1b87c-db91-4e99-87dd-16968ca8bed6" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/adf9a8cc-fd74-4a60-977e-11d0ac53cf6f" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 <br> <br>
 
 <h1 align="center">
   
-  ![Image](https://github.com/user-attachments/assets/884b572d-67bb-4781-99f1-65297256eb3e)
+  ![Image](https://github.com/user-attachments/assets/0b1f4b3d-e639-4b52-b184-fce0113c9a03)
 </h1>
 
-<h1><img src="https://github.com/user-attachments/assets/73431132-dfa3-4f94-a46d-dfbdb7cfb0f5" width="32px"> About Me:</h1>
+<h1><img src="https://github.com/user-attachments/assets/8298354a-bf7b-47b9-8029-d0539b190553" width="32px"> About Me:</h1>
 🚀 I’m a Linux user, AI & ML learner, and open-source contributor. 
-<img align='right' src="https://github.com/user-attachments/assets/849ecd56-1855-4214-bb24-aa1ed771b7b5" width="225">
+<img align='right' src="https://github.com/user-attachments/assets/39d3f182-59c8-4b46-8333-7c67b47e6b3b" width="225">
 <br>🔍 Currently exploring web development languages, and AI & ML Projects.
 <br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies. 
 <br>🌐 I’m working on automation scripts, and AI-powered applications and constantly updating my skills. 
@@ -22,12 +22,13 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt
 
 
 📫 Reach out to me: [ysathyasai.dev](mailto:ysathyasai.dev@gmail.com)
+
 ``` css
 ysathyasai.dev@gmail.com
 ```
 
 
-<h1><img src="https://github.com/user-attachments/assets/fcaa1f01-c749-4b10-afe7-e6d27e513af2" width="30px"> Socials:</h1>
+<h1><img src="https://github.com/user-attachments/assets/fbd828ad-134f-4357-b2eb-96c4d46d5f58" width="30px"> Socials:</h1>
 
 <div align="center">
 <a href="https://linkedin.com/in/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
@@ -53,9 +54,9 @@ ysathyasai.dev@gmail.com
 <a href="https://bsky.app/profile/ysathyasai.bsky.social" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a56711cb-edd8-40a4-a7e8-1d1868faaf96" alt="ysathyasai" height="33" width="38" /></a>
 </div>
 
-<h1><img src="https://github.com/user-attachments/assets/0ece6e98-00f7-4e38-af34-470278793621" width="32px"> Tech Stack:</h1>
+<h1><img src="https://github.com/user-attachments/assets/b3b64835-04c7-4e1b-ac12-d5eb0d6a47be" width="32px"> Tech Stack:</h1>
 
-<img align='right' src="https://github.com/user-attachments/assets/827c55d0-6cab-487e-93ac-f577f0bf7012" width="350">
+<img align='right' src="https://github.com/user-attachments/assets/93db16fb-a070-423d-849b-c72db740dc95" width="350">
 <br>
 
 
@@ -107,10 +108,10 @@ ysathyasai.dev@gmail.com
 [![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 
-<h1><img src="https://github.com/user-attachments/assets/5f7a8239-0658-4ae0-89a9-9fa4c17d2b3c" width="30px"> GitHub Stats:</h1>
+<h1><img src="https://github.com/user-attachments/assets/53d34d1c-f726-446e-a61a-86ea7daac437" width="30px"> GitHub Stats:</h1>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysathyasai&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ysathyasai&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="ysathyasai" />
   <br/>
 </p>
 <p align="center">
@@ -118,11 +119,11 @@ ysathyasai.dev@gmail.com
   <br/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysathyasai&langs_count=10&theme=tokyonight&layout=compact" alt="ysathyasai :: Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysathyasai&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ysathyasai :: Top Langs" />
 </p>
 
 
-<h1><img src="https://github.com/user-attachments/assets/c466dd7e-1e4c-4128-a9e3-3fc1755196d5" width="15px"> GitHub Trophies:</h1>
+<h1><img src="https://github.com/user-attachments/assets/99a24fab-1cae-4fc8-8a04-7bf39c49da59" width="15px"> GitHub Trophies:</h1>
 
 ![](https://github-profile-trophy.vercel.app/?username=ysathyasai&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
@@ -134,14 +135,14 @@ ysathyasai.dev@gmail.com
   ![](https://github-contributor-stats.vercel.app/api?username=ysathyasai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
   </h1>
 
-<h1><img src="https://github.com/user-attachments/assets/9b48ab72-cdef-4041-9249-920057f16691" width="32px"> You can help me by Donating:</h1>
+<h1><img src="https://github.com/user-attachments/assets/20535d47-cf0b-4ab2-bed6-2bd3df465308" width="32px"> You can help me by Donating:</h1>
 
 <h1 align="center">
 
   <!-- Buy Me a Coffee -->
   <a href="https://buymeacoffee.com/ysathyasai" target="_blank">
     <img src="https://github.com/user-attachments/assets/a0e89abe-79a2-453a-bc9d-b7a11c0958e5" alt="Buy Me a Coffee" width="100" />
-  </a>
+
 
   <!-- Patreon -->
   <a href="https://patreon.com/YejjuSathyaSai" target="_blank">
