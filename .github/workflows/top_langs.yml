@@ -1,0 +1,27 @@
+name: Top Language
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          user: ysathyasai
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 4
+          plugin_languages_analysis_timeout: 15
+          output_action: commit

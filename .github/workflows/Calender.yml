@@ -1,0 +1,22 @@
+name: Full-year calendar
+on:
+  # Schedule updates (each hour)
+  schedule:
+    - cron: "*/30 * * * *"
+  # Lines below let you run workflow manually and on each commit
+  push:
+    branches:
+      - "master"
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+            filename: fullyear.svg
+            token: ${{ secrets.METRICS_TOKEN }}
+            base: ""
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: full-year
+            output_action: commit
