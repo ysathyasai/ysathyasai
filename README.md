@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/user-attachments/assets/0b415b97-79bd-48e7-b00f-1e5f21b64637" width="30px">, I'm Sathya Sai<img src="https://github.com/user-attachments/assets/1ddd7bda-a1f8-4238-8d7b-3e43cadf7719" width="40px">!</h1>
 
-Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/adf9a8cc-fd74-4a60-977e-11d0ac53cf6f" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is ```Yejju Sathya Sai```, I'm a 2nd year AI & ML student at Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology <img src="https://github.com/user-attachments/assets/adf9a8cc-fd74-4a60-977e-11d0ac53cf6f" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 <br> <br>
 
 <h1 align="center">
